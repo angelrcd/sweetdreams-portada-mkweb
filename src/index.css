@@ -2,3 +2,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+  font-family: "Bluetea Regular";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Bluetea Regular"), url("/fonts/Bluetea-2ORDv.woff") format("woff");
+}
