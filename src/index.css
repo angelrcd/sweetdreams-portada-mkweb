@@ -15,3 +15,7 @@
     @apply font-sans w-1/4 h-28 text-3xl bg-web-boton rounded-full;
   }
 }
+
+#arrow-button {
+  filter: invert(100%) sepia(15%) saturate(2087%) hue-rotate(167deg) brightness(128%) contrast(110%);
+}
